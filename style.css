@@ -29,3 +29,9 @@ section{
 ul{
     display: flex;align-self: center;align-content: center;
 }
+h6{
+    font-size: 1.0cm;
+}
+input{
+    border: 1.0rem;
+}
