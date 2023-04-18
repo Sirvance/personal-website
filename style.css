@@ -27,11 +27,11 @@ section{
     display: flex;flex-direction: column
 }
 ul{
-    display: flex;align-self: center;align-content: center;
+    display: flex;align-self: center;align-content: center;align-items: center;
 }
 h6{
     font-size: 1.0cm;
 }
 input{
-    border: 1.0rem;
+    border: 1.0rem;display: flex;align-self: center;
 }
